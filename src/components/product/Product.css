@@ -1,0 +1,7 @@
+.product__img{
+    height: 300px;
+    object-fit: cover;
+}
+.product__card{
+    height: 460px;
+}
